@@ -18,7 +18,8 @@
     "webpack": "^4.44.2"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git"
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
+    "http-proxy-middleware": "^1.0.5"
   },
   "version": "1.0.0",
   "main": "index.js",
