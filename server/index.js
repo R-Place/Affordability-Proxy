@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 
 const proxy = express();
-const port = 5000;
+const port = 3000;
 
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
