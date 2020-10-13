@@ -10,8 +10,30 @@
   "scripts": {
   },
   "dependencies": {
+<<<<<<< HEAD
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
+    "http-proxy-middleware": "^1.0.5"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaWildermuth/Affordability-Proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JessicaWildermuth/Affordability-Proxy/issues"
+  },
+  "homepage": "https://github.com/JessicaWildermuth/Affordability-Proxy#readme"
+=======
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
   }
+>>>>>>> d147cb3f246632fd3bf1e062e88bb6749c712045
 }

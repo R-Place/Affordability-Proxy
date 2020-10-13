@@ -1,0 +1,68 @@
+#info {
+  top: -925px;
+  padding-left: 310px;
+  position: relative;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#reviews {
+  height: fit-content;
+  padding-top: 50px;
+  padding-left: 300px;
+  position: relative;
+  max-width: 100%;
+  overflow-x: hidden;
+  top: -832px;
+}
+
+.image {
+  width: 1000px;
+  max-width: 100%;
+  overflow-x: hidden;
+
+}
+
+#affordability {
+  display: flex;
+  padding-top: 550px;
+  padding-left: 300px;
+  max-width: 100%;
+  position: relative;
+  top: -800px;
+}
+
+#agent {
+  padding-top: 160px;
+  padding-left: 300px;
+  width: 1000px;
+  max-width: 100%;
+  top: -800px;
+  position: relative;
+}
+
+
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+  height: 2000px;
+}
+
+#similarHomes {
+  height: 300px;
+  position: relative;
+  top: -800px;
+}
+
+#last {
+  top: -825px;
+  padding-left: 310px;
+  position: relative;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#app {
+  position: relative;
+  top: 10px;
+}
